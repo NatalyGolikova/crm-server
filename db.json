@@ -1,0 +1,276 @@
+{
+    "requests": [
+      {
+        "date": "23.06.2022",
+        "name": "Иванов Петр Иванович",
+        "phone": "+79494715236",
+        "email": "sidenko@mail.ru",
+        "product": {
+          "title": "Курс по JavaScript",
+          "value": "course-js"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 6
+      },
+      {
+        "date": "23.06.2022",
+        "name": "Кравченко Тарас Петрович",
+        "phone": "+79496487595",
+        "email": "kravch@mail.ru",
+        "product": {
+          "title": "Курс по верстке",
+          "value": "course-html"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 12
+      },
+      {
+        "date": "23.06.2022",
+        "name": "Сиденко Светлана Борисовна",
+        "phone": "+79496487595",
+        "email": "kravch@mail.ru",
+        "product": {
+          "title": "Курс по WordPress",
+          "value": "course-wordpress"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 13
+      },
+      {
+        "date": "23.06.2022",
+        "name": "Тарасенко Денис Олегович",
+        "phone": "+79496487595",
+        "email": "kravch@mail.ru",
+        "product": {
+          "title": "Курс по JavaScript",
+          "value": "course-js"
+        },
+        "status": {
+          "title": "В работе",
+          "value": "inwork",
+          "view": "badge-warning"
+        },
+        "id": 14
+      },
+      {
+        "date": "23.06.2022",
+        "name": "Тарасенко Денис Олегович",
+        "phone": "+79495842631",
+        "email": "kozlenko@mail.ru",
+        "product": {
+          "title": "Курс по верстке",
+          "value": "course-html"
+        },
+        "status": {
+          "title": "Завершена",
+          "value": "complete",
+          "view": "badge-success"
+        },
+        "id": 16
+      },
+      {
+        "date": "23.06.2022",
+        "name": "Тарасенко Денис",
+        "phone": "+79493214589",
+        "email": "sidenko@mail.ru",
+        "product": {
+          "title": "Курс по VUE JS",
+          "value": "course-vue"
+        },
+        "status": {
+          "title": "В работе",
+          "value": "inwork",
+          "view": "badge-warning"
+        },
+        "id": 17
+      },
+      {
+        "date": "24.06.2022",
+        "name": "Сиденко Светлана Борисовна",
+        "phone": "+79496487595",
+        "email": "sidenko@mail.ru",
+        "product": {
+          "title": "Курс по верстке",
+          "value": "course-html"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 18
+      },
+      {
+        "date": "24.06.2022",
+        "name": "Иванов Петр Иванович",
+        "phone": "+79496487595",
+        "email": "ivanov@mail.ru",
+        "product": {
+          "title": "Курс по JavaScript",
+          "value": "course-js"
+        },
+        "status": {
+          "title": "В работе",
+          "value": "inwork",
+          "view": "badge-warning"
+        },
+        "id": 19
+      },
+      {
+        "date": "25.06.2022",
+        "name": "Иванов Петр Иванович",
+        "phone": "+79496487595",
+        "email": "ivanov@mail.ru",
+        "product": {
+          "title": "Курс по PHP",
+          "value": "course-php"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 20
+      },
+      {
+        "date": "25.06.2022",
+        "name": "Кравченко Тарас Петрович",
+        "phone": "+79495289652",
+        "email": "kravch@mail.ru",
+        "product": {
+          "title": "Курс по WordPress",
+          "value": "course-wordpress"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 21
+      },
+      {
+        "date": "25.06.2022",
+        "name": "Иванов Петр Иванович",
+        "phone": "+79495842631",
+        "email": "kozlenko@mail.ru",
+        "product": {
+          "title": "Курс по верстке",
+          "value": "course-html"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 22
+      },
+      {
+        "date": "25.06.2022",
+        "name": "Козленко Данил Николаевич",
+        "phone": "+79495289652",
+        "email": "ivanov@mail.ru",
+        "product": {
+          "title": "Курс по WordPress",
+          "value": "course-wordpress"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 23
+      },
+      {
+        "date": "25.06.2022",
+        "name": "Козленко Данил Николаевич",
+        "phone": "+79495289652",
+        "email": "kravch@mail.ru",
+        "product": {
+          "title": "Курс по JavaScript",
+          "value": "course-js"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 24
+      },
+      {
+        "date": "26.06.2022",
+        "name": "Кравченко Тарас Петрович",
+        "phone": "+79493214589",
+        "email": "sidenko@mail.ru",
+        "product": {
+          "title": "Курс по PHP",
+          "value": "course-php"
+        },
+        "status": {
+          "title": "Завершена",
+          "value": "complete",
+          "view": "badge-success"
+        },
+        "id": 25
+      },
+      {
+        "date": "26.06.2022",
+        "name": "Иванов Петр Иванович",
+        "phone": "+79495289652",
+        "email": "sidenko@mail.ru",
+        "product": {
+          "title": "Курс по PHP",
+          "value": "course-php"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 26
+      },
+      {
+        "date": "26.06.2022",
+        "name": "Тарасенко Денис",
+        "phone": "+79494715236",
+        "email": "krch@mail.ru",
+        "product": {
+          "title": "Курс по PHP",
+          "value": "course-php"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 27
+      },
+      {
+        "date": "26.06.2022",
+        "name": "Тарасенко Денис",
+        "phone": "+79493214589",
+        "email": "kravch@mail.ru",
+        "product": {
+          "title": "Курс по верстке",
+          "value": "course-html"
+        },
+        "status": {
+          "title": "Новая",
+          "value": "new",
+          "view": "badge-danger"
+        },
+        "id": 28
+      }
+    ]
+  }
